@@ -9,11 +9,12 @@
 
 I am a Developer and Creative Designer. I specialize Front-end Development, Database and more.
 I am Based in São Paulo, Brazil, where I study Database.
+:email: Feel free to drop me a message at: stephanisoares32@gmail.com
+
 
 **Talking about Personal Stuffs:**
 
 💬 I’m currently working on a project of university & my portfolio using HTML and pure CSS. In some weeks I will upload here.
-Feel free to drop me a message at: stephanisoares32@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=stephani-sj&theme=graywhite&show_icons=true&hide_border=true&&count_private=true&icon_collor=F3EADB)
 
