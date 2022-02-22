@@ -10,4 +10,9 @@
 I am a Developer and Creative Designer. I specialize Front-end Development, Database and more.
 I am Based in São Paulo, Brazil, where I study Database.
 
+**Talking about Personal Stuffs:**
+
+- I’m currently working on a project of university & my portfolio using HTML and pure CSS
+- Feel free to drop me a message at: stephanisoares32@gmail.com
+
 
