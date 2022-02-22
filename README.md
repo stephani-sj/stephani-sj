@@ -17,8 +17,10 @@ I am Based in São Paulo, Brazil, where I study Database.
 💬 I’m currently working on a project of university & my portfolio using HTML and pure CSS. In some weeks I will upload here. Feel free to drop me a message at: stephanisoares32@gmail.com
 
 **This Week I Spent My Time On:**
-
 <!--START_SECTION:waka-->
+```text
+JSON   2 mins          █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 **My Git Status:**
