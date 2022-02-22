@@ -15,4 +15,3 @@ I am a Developer and Creative Designer. I specialize Front-end Development, Data
 I am Based in São Paulo, Brazil, where I study Database.
 
 
-### Welcome! &nbsp; ![](https://github-readme-stats.vercel.app/api?username=stephani-sj&theme=graywhite&show_icons=true&hide_border=true&&count_private=true)
