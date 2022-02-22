@@ -5,10 +5,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stephani-sj&left_color=gray&right_color=yellow)
 
-
-
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
 
 
 I am a Developer and Creative Designer. I specialize Front-end Development, Database and more.
