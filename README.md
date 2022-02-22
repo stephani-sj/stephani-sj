@@ -15,9 +15,7 @@ I am Based in São Paulo, Brazil, where I study Database.
 **Talking about Personal Stuffs:**
 
  💬 I’m currently working on a project of university & my portfolio using HTML and pure CSS. 
-<p> In some weeks I will upload here.
-  <p>
-Feel free to drop me a message at: stephanisoares32@gmail.com
+<p> In some weeks I will upload here. Feel free to drop me a message at: stephanisoares32@gmail.com
 
 **My Git Status:**
 
