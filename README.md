@@ -19,8 +19,6 @@ I am Based in São Paulo, Brazil, where I study Database.
   <p>
 Feel free to drop me a message at: stephanisoares32@gmail.com
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/f4/b7/0d/f4b70d7305cf77487ff1b7eaf8e29ebd.gif?raw=true" width="200" height="300" />
-
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
