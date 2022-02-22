@@ -19,9 +19,6 @@ I am Based in São Paulo, Brazil, where I study Database.
 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Java   2 mins          ███████████████████   100.00 %  HTML & CSS   2 mins          ███████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
 
 **My Git Status:**
