@@ -11,7 +11,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
 
-Welcome!, I am Stephani Soares, a Developer and Creative Designer. I specialize Front-end Development, Database and more.
+I am a Developer and Creative Designer. I specialize Front-end Development, Database and more.
 I am Based in São Paulo, Brazil, where I study Database.
 
 
