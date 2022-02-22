@@ -3,4 +3,4 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephani-sj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&text_color=282626&icon_color=CEC9C1&custom_title=My Stats&tittle_color=CEC9C1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephani-sj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&text_color=282626&icon_color=CEC9C1&custom_title=My Stats&theme=greywhite"/>
