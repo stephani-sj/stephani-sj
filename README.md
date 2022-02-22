@@ -16,6 +16,8 @@ I am Based in São Paulo, Brazil, where I study Database.
 
 💬 I’m currently working on a project of university & my portfolio using HTML and pure CSS. In some weeks I will upload here. Feel free to drop me a message at: stephanisoares32@gmail.com
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif?raw=true" width="408" height="318" />
+
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
