@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="#" target="_blank">Stephani</a>
+### Hi there, I'm Stephani
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/stessada_?utm_medium=copy_link)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephani-soares)
