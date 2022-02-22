@@ -20,7 +20,10 @@ I am Based in São Paulo, Brazil, where I study Database.
 
 <!--START_SECTION:waka-->
 ```text
-JSON   2 mins          █████████████████████████   100.00 % 
+Java   2 mins          ███████████████████   100.00 % 
+```
+```text
+HTML & CSS   2 mins          ███████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
