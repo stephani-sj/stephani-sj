@@ -19,7 +19,7 @@ I am Based in São Paulo, Brazil, where I study Database.
 **My Git Status:**
 
 ![](https://github-readme-stats.vercel.app/api?username=stephani-sj&theme=graywhite&show_icons=true&hide_border=true&&count_private=true&icon_collor=F3EADB)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephani-sj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur-sj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 
