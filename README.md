@@ -14,9 +14,12 @@ I am Based in São Paulo, Brazil, where I study Database.
 
 **Talking about Personal Stuffs:**
 
-💬 I’m currently working on a project of university & my portfolio using HTML and pure CSS. In some weeks I will upload here. Feel free to drop me a message at: stephanisoares32@gmail.com
+ 💬 I’m currently working on a project of university & my portfolio using HTML and pure CSS. 
+<p> In some weeks I will upload here.
+  <p>
+Feel free to drop me a message at: stephanisoares32@gmail.com
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/f4/b7/0d/f4b70d7305cf77487ff1b7eaf8e29ebd.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/f4/b7/0d/f4b70d7305cf77487ff1b7eaf8e29ebd.gif?raw=true" width="200" height="300" />
 
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -28,6 +31,13 @@ JSON   2 mins          ███████████████████
 **My Git Status:**
 
 ![](https://github-readme-stats.vercel.app/api?username=stephani-sj&theme=graywhite&show_icons=true&hide_border=true&&count_private=true&icon_collor=F3EADB)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
+
+
+
+
 
 
 
