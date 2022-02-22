@@ -20,11 +20,17 @@ I am Based in São Paulo, Brazil, where I study Database.
 
 ![](https://github-readme-stats.vercel.app/api?username=stephani-sj&theme=graywhite&show_icons=true&hide_border=true&&count_private=true&icon_collor=F3EADB)
 
+**This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 JSON   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+**My Git Status:**
+
+![](https://github-readme-stats.vercel.app/api?username=stephani-sj&theme=graywhite&show_icons=true&hide_border=true&&count_private=true&icon_collor=F3EADB)
 
 
 
