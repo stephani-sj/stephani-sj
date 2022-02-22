@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.stephani-sj&right_color=gray)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.stephani-sj&right_color=CEC9C1)
 
 
 
