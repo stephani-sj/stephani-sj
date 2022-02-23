@@ -12,7 +12,7 @@ I am Based in São Paulo, Brazil, where I study Database.
 
 **Talking about Personal Stuff:**
 
- 💬 I’m currently working on a project of college & my portfolio using HTML and pure CSS.
+ 💬 I’m currently working on a project of college 
 <p> :email: Feel free to drop me a message at: stephanisoares32@gmail.com
 
 **My Git Status:**
