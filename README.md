@@ -1,18 +1,16 @@
 ### Hi there, I'm Stephani
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&color=lightgray)](https://instagram.com/stessada_?utm_medium=copy_link)
-
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=stephani-ss&left_color=gray&right_color=green)
 
-I am a Developer and Creative Designer. I specialize in Front-end Development, Database and more.
-I am Based in São Paulo, Brazil, where I study Database.
+I am a QA Analyst and Creative Designer. I specialize in Front-end Development, Database and more.
+I am Based in São Paulo, Brazil.
 
 
 
 **Talking about Personal Stuff:**
 
- 💬 I’m currently working on a project of college 
+ 💬 I’m currently working on a project of Softwillians
 <p> :email: Feel free to drop me a message at: stephanisoares32@gmail.com
 
 **My Git Status:**
