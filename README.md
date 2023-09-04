@@ -1,7 +1,7 @@
 ### Hi there, I'm Stephani
 
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=stephani-ss&left_color=gray&right_color=green)
+### Glad to see you here! &nbsp; 
 
 I am a QA Specialist and Creative Designer. I specialize in Front-end Development, Database and more.
 I am Based in São Paulo, Brazil.
