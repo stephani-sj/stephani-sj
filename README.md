@@ -3,14 +3,14 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=stephani-ss&left_color=gray&right_color=green)
 
-I am a QA Analyst and Creative Designer. I specialize in Front-end Development, Database and more.
+I am a QA Specialist and Creative Designer. I specialize in Front-end Development, Database and more.
 I am Based in São Paulo, Brazil.
 
 
 
 **Talking about Personal Stuff:**
 
- 💬 I’m currently working on a project of Softwillians
+ 💬 I’m currently working on Magento stores
 <p> :email: Feel free to drop me a message at: stephanisoares32@gmail.com
 
 **My Git Status:**
